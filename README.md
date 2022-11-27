@@ -7,7 +7,7 @@ Currently, I am building and mastering my skills in problem solving, getting dat
 
 🔭 I recently graduated from the [Code First Girls](https://codefirstgirls.com) Nanodegree program under Data Specialization and my place was sponsored by KFC UK and Ireland.
 
-🌱 I’m currently learning to become and remain a valuable Data Scientist by constantly improving on my programming languauge skills from taking numerous online courses and youtube videos on coding.
+🌱 I’m currently learning to become and remain a valuable Data Scientist by constantly improving on my programming language skills via taking numerous online courses and youtube videos on coding.
 
 💃🏽 I'm currently an Ambassador to [Showcode's Athena Community](https://showcode.io/) and also open to helping more tech communities that may find my time valuable.
 
