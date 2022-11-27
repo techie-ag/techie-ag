@@ -2,7 +2,8 @@
 
 
 MSc Data Science [University of Essex](https://www.essex.ac.uk/) from Applied Biology and Biotechnology 💻 
-Curently, I am building and mastering my skills in problem solving, getting data insights and properly communicating the results to stakeholders as well as acquire skills in Artificial Intelligences through :
+
+Currently, I am building and mastering my skills in problem solving, getting data insights and properly communicating the results to stakeholders as well as acquire skills in Artificial Intelligences through :
 
 🔭 I recently graduated from the [Code First Girls](https://codefirstgirls.com) Nanodegree program under Data Specialization and my place was sponsored by KFC UK and Ireland.
 🌱 I’m currently learning to become and remain a valuable Data Scientist by constantly improving on my programming languauge skills from taking numerous online courses and youtube videos on coding.
