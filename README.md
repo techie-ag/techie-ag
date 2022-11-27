@@ -2,7 +2,7 @@
 
 
 <!--
---Let's get to know me more.
+#Let's get to know me more.
 
 --MSc Data Science [University of Essex](https://www.essex.ac.uk/) from Applied Biology and Biotechnology 💻
 
