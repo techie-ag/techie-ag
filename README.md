@@ -6,11 +6,14 @@ MSc Data Science [University of Essex](https://www.essex.ac.uk/) from Applied Bi
 Currently, I am building and mastering my skills in problem solving, getting data insights and properly communicating the results to stakeholders as well as acquire skills in Artificial Intelligence. These are the few things to know about me:
 
 🔭 I recently graduated from the [Code First Girls](https://codefirstgirls.com) Nanodegree program under Data Specialization and my place was sponsored by KFC UK and Ireland.
+
 🌱 I’m currently learning to become and remain a valuable Data Scientist by constantly improving on my programming languauge skills from taking numerous online courses and youtube videos on coding.
+
 💃🏽 I'm currently an Ambassador to [Showcode's Athena Community](https://showcode.io/) and also open to helping more tech communities that may find my time valuable.
+
 📜 I’m currently taking a Google Analytics Course bootcamp online, as well as more courses to help with improving on my Data Visualization skills.
 
-📜 I'm working on my problem solving skills and learning to build a great portfolio 
+📜 I'm working on my problem solving skills and learning to build a great portfolio. 
 
 👭 I'm open to collaborate and work on projects with any one or company. 
 
@@ -19,7 +22,9 @@ Currently, I am building and mastering my skills in problem solving, getting dat
 💬 Ask me about everything Data and Personal Development, especially as a blackgirl from an underrepresented ethnicity. 
 
 📫 I can be reached via [augustaebereonuodafin@gmail.com].
+
 😄 Pronouns: She/Her.
+
 ⚡ Fun fact: I enjoy to experiment with cooking recipes.
 
 
